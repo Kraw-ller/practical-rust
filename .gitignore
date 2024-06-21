@@ -5,3 +5,5 @@
 /catsay-tui/Cargo.lock
 
 
+/catsay-gui/target
+/catsay-gui/Cargo.lock
