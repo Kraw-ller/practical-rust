@@ -1,2 +1,7 @@
 /catsay/target
 /catsay/Cargo.lock
+
+/catsay-tui/target
+/catsay-tui/Cargo.lock
+
+
